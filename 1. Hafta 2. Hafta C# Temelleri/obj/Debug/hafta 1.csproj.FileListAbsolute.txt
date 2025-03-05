@@ -1,0 +1,14 @@
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\1. Hafta\hafta 1\bin\Debug\hafta 1.exe.config
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\1. Hafta\hafta 1\bin\Debug\hafta 1.exe
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\1. Hafta\hafta 1\bin\Debug\hafta 1.pdb
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\1. Hafta\hafta 1\obj\Debug\hafta 1.csproj.AssemblyReference.cache
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\1. Hafta\hafta 1\obj\Debug\hafta 1.csproj.CoreCompileInputs.cache
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\1. Hafta\hafta 1\obj\Debug\hafta 1.exe
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\1. Hafta\hafta 1\obj\Debug\hafta 1.pdb
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\1. Hafta + 2.Hafta\1. Hafta C# Temelleri\bin\Debug\hafta 1.exe.config
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\1. Hafta + 2.Hafta\1. Hafta C# Temelleri\bin\Debug\hafta 1.exe
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\1. Hafta + 2.Hafta\1. Hafta C# Temelleri\bin\Debug\hafta 1.pdb
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\1. Hafta + 2.Hafta\1. Hafta C# Temelleri\obj\Debug\hafta 1.csproj.AssemblyReference.cache
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\1. Hafta + 2.Hafta\1. Hafta C# Temelleri\obj\Debug\hafta 1.csproj.CoreCompileInputs.cache
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\1. Hafta + 2.Hafta\1. Hafta C# Temelleri\obj\Debug\hafta 1.exe
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\1. Hafta + 2.Hafta\1. Hafta C# Temelleri\obj\Debug\hafta 1.pdb
