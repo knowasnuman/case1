@@ -1,0 +1,14 @@
+C:\Users\numan\source\repos\6. Hafta - Diziler\bin\Debug\_6.Hafta___Diziler.exe.config
+C:\Users\numan\source\repos\6. Hafta - Diziler\bin\Debug\_6.Hafta___Diziler.exe
+C:\Users\numan\source\repos\6. Hafta - Diziler\bin\Debug\_6.Hafta___Diziler.pdb
+C:\Users\numan\source\repos\6. Hafta - Diziler\obj\Debug\6. Hafta - Diziler.csproj.AssemblyReference.cache
+C:\Users\numan\source\repos\6. Hafta - Diziler\obj\Debug\6. Hafta - Diziler.csproj.CoreCompileInputs.cache
+C:\Users\numan\source\repos\6. Hafta - Diziler\obj\Debug\_6.Hafta___Diziler.exe
+C:\Users\numan\source\repos\6. Hafta - Diziler\obj\Debug\_6.Hafta___Diziler.pdb
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\6. Hafta - Diziler\bin\Debug\_6.Hafta___Diziler.exe.config
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\6. Hafta - Diziler\bin\Debug\_6.Hafta___Diziler.exe
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\6. Hafta - Diziler\bin\Debug\_6.Hafta___Diziler.pdb
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\6. Hafta - Diziler\obj\Debug\6. Hafta - Diziler.csproj.AssemblyReference.cache
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\6. Hafta - Diziler\obj\Debug\6. Hafta - Diziler.csproj.CoreCompileInputs.cache
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\6. Hafta - Diziler\obj\Debug\_6.Hafta___Diziler.exe
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\6. Hafta - Diziler\obj\Debug\_6.Hafta___Diziler.pdb

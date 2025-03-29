@@ -1,0 +1,7 @@
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\201 - Metotlar\bin\Debug\201 - Metotlar.exe.config
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\201 - Metotlar\bin\Debug\201 - Metotlar.exe
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\201 - Metotlar\bin\Debug\201 - Metotlar.pdb
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\201 - Metotlar\obj\Debug\201 - Metotlar.csproj.AssemblyReference.cache
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\201 - Metotlar\obj\Debug\201 - Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\201 - Metotlar\obj\Debug\201 - Metotlar.exe
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\201 - Metotlar\obj\Debug\201 - Metotlar.pdb

@@ -1,0 +1,14 @@
+C:\Users\numan\source\repos\7. Hafta - Foreach\bin\Debug\_7.Hafta___Foreach.exe.config
+C:\Users\numan\source\repos\7. Hafta - Foreach\bin\Debug\_7.Hafta___Foreach.exe
+C:\Users\numan\source\repos\7. Hafta - Foreach\bin\Debug\_7.Hafta___Foreach.pdb
+C:\Users\numan\source\repos\7. Hafta - Foreach\obj\Debug\7. Hafta - Foreach.csproj.AssemblyReference.cache
+C:\Users\numan\source\repos\7. Hafta - Foreach\obj\Debug\7. Hafta - Foreach.csproj.CoreCompileInputs.cache
+C:\Users\numan\source\repos\7. Hafta - Foreach\obj\Debug\_7.Hafta___Foreach.exe
+C:\Users\numan\source\repos\7. Hafta - Foreach\obj\Debug\_7.Hafta___Foreach.pdb
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\7. Hafta - Foreach\bin\Debug\_7.Hafta___Foreach.exe.config
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\7. Hafta - Foreach\bin\Debug\_7.Hafta___Foreach.exe
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\7. Hafta - Foreach\bin\Debug\_7.Hafta___Foreach.pdb
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\7. Hafta - Foreach\obj\Debug\7. Hafta - Foreach.csproj.AssemblyReference.cache
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\7. Hafta - Foreach\obj\Debug\7. Hafta - Foreach.csproj.CoreCompileInputs.cache
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\7. Hafta - Foreach\obj\Debug\_7.Hafta___Foreach.exe
+C:\Users\numan\OneDrive\Desktop\.NET Çalısma\7. Hafta - Foreach\obj\Debug\_7.Hafta___Foreach.pdb

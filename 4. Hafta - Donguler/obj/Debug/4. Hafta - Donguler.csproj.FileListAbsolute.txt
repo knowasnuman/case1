@@ -1,0 +1,7 @@
+C:\Users\numan\source\repos\4. Hafta - Donguler\bin\Debug\_4.Hafta___Donguler.exe.config
+C:\Users\numan\source\repos\4. Hafta - Donguler\bin\Debug\_4.Hafta___Donguler.exe
+C:\Users\numan\source\repos\4. Hafta - Donguler\bin\Debug\_4.Hafta___Donguler.pdb
+C:\Users\numan\source\repos\4. Hafta - Donguler\obj\Debug\4. Hafta - Donguler.csproj.AssemblyReference.cache
+C:\Users\numan\source\repos\4. Hafta - Donguler\obj\Debug\4. Hafta - Donguler.csproj.CoreCompileInputs.cache
+C:\Users\numan\source\repos\4. Hafta - Donguler\obj\Debug\_4.Hafta___Donguler.exe
+C:\Users\numan\source\repos\4. Hafta - Donguler\obj\Debug\_4.Hafta___Donguler.pdb
