@@ -35,6 +35,8 @@ Veritabanı işlemleri için temel kavramlara giriş yaptık henüz çok anlaş�
 Veritabanında veri ekleme, güncelleme, silme ve listeleme işlemlerini iyice kavrayıp 9. Haftada aklıma takılan her şeyin cevabını buldum.
 
 ### 🔹 11. Proje - EFProject (Bir seyahat uygulaması)
+![image](https://github.com/user-attachments/assets/1062eb36-3c49-4a06-803e-b561d0aaa91e)
+
 Bu projede Entity Framework kullanarak bir seyahat veri tabanındaki bilgileri işleyip, Windows Forms üzerinde dinamik bir istatistik paneli oluşturdum. 🚀
 
 Uygulama, toplam lokasyon sayısı, kapasite, rehber miktarı gibi genel verileri hesaplayarak kullanıcıya sunarken; ortalama fiyat ve kapasite gibi istatistikleri analiz etmeyi de sağladı. Ayrıca belirli şehir ve ülkeler için özel filtreleme imkânı sunarak, en yüksek kapasite ve fiyat değerlerine sahip lokasyonları belirlemeye olanak tanıdı. Bunun yanında, her bir rehberin üstlendiği tur sayısını tespit edebilmek de mümkün oldu.
